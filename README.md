@@ -27,17 +27,17 @@ pid (Player ID - Integer, Primary Key)
 pname (Player Name - String)
 country (Country - String)
 
-### User Flow
-## Launch the application to see the welcome screen.
-Login using the username and password ("Yogesh", "yogesh123").
+## User Flow
+Launch the application to see the welcome screen.
+Login using the username and password.
 Access the main menu for managing player data:
 Enter player details and perform Insert, Update, or Delete actions.
 View all player records using the Show button.
 Exit the system using the Exit button.
 
-### Future Enhancements:
-# Add a registration module for dynamic user management.
-# Include additional player attributes like age, team, and statistics.
-# I mplement search functionality for specific player details.
-# Strengthen security by encrypting passwords and using database role-based access.
+## Future Enhancements:
+#### Add a registration module for dynamic user management.
+#### Include additional player attributes like age, team, and statistics.
+#### I mplement search functionality for specific player details.
+#### Strengthen security by encrypting passwords and using database role-based access.
 
