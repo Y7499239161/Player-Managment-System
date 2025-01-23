@@ -2,9 +2,9 @@
 It allows users to perform CRUD (Create, Read, Update, Delete) operations on player data.
 A simple GUI ensures an interactive and user-friendly experience.
 
-### Features
-## Welcome Screen: Greets the user and transitions to the login screen.
-## Login System: Authenticates users with predefined credentials.
+## Features
+#### Welcome Screen: Greets the user and transitions to the login screen.
+#### Login System: Authenticates users with predefined credentials.
 
 ### Crud Operations:
 ## Insert Player: Add new player data into the database.
