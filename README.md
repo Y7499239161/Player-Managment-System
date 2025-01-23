@@ -1,4 +1,4 @@
-### This project is a Player Management System built using Java Swing and MySQL.
+## This project is a Player Management System built using Java Swing and MySQL.
 It allows users to perform CRUD (Create, Read, Update, Delete) operations on player data.
 A simple GUI ensures an interactive and user-friendly experience.
 
@@ -7,14 +7,14 @@ A simple GUI ensures an interactive and user-friendly experience.
 #### Login System: Authenticates users with predefined credentials.
 
 ### Crud Operations:
-## Insert Player: Add new player data into the database.
-## Update Player: Modify details of existing players.
-## Delete Player: Remove player records by their ID.
-## Show Players: Display all records in a tabular format.
-## Exit Option: Safely closes the application.
-## Error Handling: Provides meaningful error messages for invalid actions or inputs.
+#### Insert Player: Add new player data into the database.
+#### Update Player: Modify details of existing players.
+#### Delete Player: Remove player records by their ID.
+#### Show Players: Display all records in a tabular format.
+#### Exit Option: Safely closes the application.
+#### Error Handling: Provides meaningful error messages for invalid actions or inputs.
 
-### Programming Language:
+## Programming Language:
 ## Java
 ## GUI Framework: Swing
 ## Database: MySQL
